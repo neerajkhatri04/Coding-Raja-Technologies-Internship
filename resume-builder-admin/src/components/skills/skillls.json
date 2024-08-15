@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_skills_skillls",
+  "info": {
+    "displayName": "Skillls",
+    "icon": "cube"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "rating": {
+      "type": "integer"
+    },
+    "ids": {
+      "type": "biginteger"
+    }
+  }
+}
